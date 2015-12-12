@@ -1,0 +1,88 @@
+今日のコマンド
+・githubで管理
+・平日毎日追記
+
+
+🔵 2015-12-01(火)
+・git config
+・git init
+
+Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.
+xcodeのagreeが必要
+
+ベアリポジトリは、作業ディレクトリを持たないGitリポジトリで、複数の開発者で共有リポジトリとして使用されます。
+ベアリポジトリは、リモートリポジトリとして他のリポジトリからのクローン、プシュ、プルといった操作を受け付けます。
+作業ディレクトを持たないため、ベアリポジトリに対して直接のコミット操作は実施できません。
+
+🔵 2015-12-02(水)
+・git clone
+・git commit
+
+🔵 2015-12-03(木)
+・git add
+・git rm
+・git mv
+
+🔵 2015-12-04(金)
+・git status
+・git reset
+・git revert
+
+🔵 2015-12-05(土)
+・git clean
+管理外の消えるので注意
+
+・git pull
+
+🔵 2015-12-06(日)
+・git fetch
+・git push
+
+🔵 2015-12-07(月)
+・git remote
+リモートリポジトリを一覧表示、追加、変更、削除します。
+
+・git bundle
+ネットワークで直接通信出来ないリポジトリと同期するためのバンドルファイルを
+作成します。作成したバンドルファイルは、pullで他のリポジトリに取り込みます。
+
+🔵 2015-12-08(火)
+
+■ 直近にコミットをやり直す
+git commit --amend -m "2nd Commit"
+
+■ コミットを無かったことにする
+git reset --soft HEAD^  : 直近のcommitをコミットだけ取り消す
+git reset --soft HEAD~3 : 過去3回のcommitをコミットだけ取り消す
+
+■ resetを間違った場合
+git reflog                : 過去のコミット履歴が参照可能
+git reset --hard HEAD@{1} : 元に戻す
+
+🔵 2015-12-09(水)
+
+git show-branch   :ブランチの状態を確認します。
+git tag           :コミットにタグを設定します。
+
+#git
+
+🔵 2015-12-10(木)
+
+git describe :１番最近のタグを探し、情報を表示します。
+git archive  :リポジトリから配布用のtarファイルやzipファイルを作成します
+
+#git
+
+🔵 2015-12-11(金)
+
+git merge      :対象ブランチの変更を、現在のブランチに取り込みます
+git mergetool  :競合が発生している際に、外部ツールを起動して競合を解決します
+
+#git
+
+
+
+
+
+
+

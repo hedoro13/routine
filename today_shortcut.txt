@@ -1,0 +1,69 @@
+今日のショートカット
+・平日毎日追記
+
+🔵 2015-12-07(月)
+
+chrome
+・command + t         タブを開く
+・command + w         タブを閉じる
+・command + t + shift 閉じたタブを開く
+・command + [         戻る
+・command + ]         進む
+・control + tab       タブを移動
+
+#shortcut
+
+🔵 2015-12-08(火)
+
+sublime
+・alt + command + v ：履歴からコピー
+・comand + g             ：検索
+
+chrome
+・comand + shift + n：シークレットモードで起動
+
+🔵 2015-12-09(水)
+
+less
+
+/キーワード  キーワードを前方一致検索する。
+            nキーで次の検索一致へジャンプ。
+            N(Shift-n)で前の検索一致へジャンプ
+
+?キーワード  キーワードを後方一致検索する。
+            nキーで次の検索一致へジャンプ。
+            N(Shift-n)で前の検索一致へジャンプ
+
+Ctrl-f  ページ送り
+Ctrl-b  ページ戻し
+Ctrl-d  半ページ送り
+Ctrl-u  半ページ戻し
+
+🔵 2015-12-10(木)
+
+mac 
+
+⌃ :control
+⌥ :alt
+⇧ :shift
+
+🔵 2015-12-11(金)
+
+sublime
+
+画面分割
+alt + command + 1 : single
+alt + command + 2 : columns 2
+alt + command + 3 : columns 3
+alt + command + 4 : columns 4
+
+
+
+
+
+
+
+
+
+
+
