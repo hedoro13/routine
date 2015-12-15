@@ -57,8 +57,19 @@ alt + command + 2 : columns 2
 alt + command + 3 : columns 3
 alt + command + 4 : columns 4
 
+#sublime
+#shortcut
 
+🔵 2015-12-15(火)
 
+mac
+
+・Mission Control を開く 3 本指または 4 本指で上にスワイプ
+・デスクトップを作って、ドラッグ＆ドロップする
+・command + control とかで切り替える
+
+#mac
+#shortcut
 
 
 
